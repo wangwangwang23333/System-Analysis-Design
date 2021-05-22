@@ -18,7 +18,7 @@
 
 - Assignment0： 项目的确定
 - Assignment1： 用例图等
-- Assignment2： 系统架构、时序图等
+- Assignment2： 系统架构、时序图、中期Pre等
 - Assignment3： 进行中
 
 ## 项目简介
