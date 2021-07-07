@@ -19,7 +19,11 @@
 - Assignment0： 项目的确定
 - Assignment1： 用例图等
 - Assignment2： 系统架构、时序图、中期Pre等
-- Assignment3： 进行中
+- Assignment3： 终期Pre等
+
+4次作业得分如下所示：
+
+<img src='https://z3.ax1x.com/2021/07/07/RqeyUe.png'>
 
 ## 项目简介
 
